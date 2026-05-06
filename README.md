@@ -1,7 +1,6 @@
 ## Welcome! 👋
 ---
 # Hi, I'm Tonya 🧡  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonya-Sherre&show_icons=true&theme=gruvbox&icon_color=FFA500&title_color=FFA500)
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=28&center=true&vCenter=true&width=700&lines=CompTIA+A%2B+Certified+🧡;Cybersecurity+Student+💻;Studying+Network%2B+📚;Learning+PowerShell+✨)
 ---
